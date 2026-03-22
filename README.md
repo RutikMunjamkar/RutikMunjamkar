@@ -1,5 +1,5 @@
 
-![Uploading image.png…]()
+[Uploading image.png…]()
 
 Hi, I’m Rutik Munjamkar 👋
 
