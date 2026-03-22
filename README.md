@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I’m Rutik Munjamkar 👋
 
-<!--
-**RutikMunjamkar/RutikMunjamkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full Stack Developer | VIT Pune ’24 Graduate
 
-Here are some ideas to get you started:
+I am passionate about building secure and scalable backend services and full-stack applications using Java, Spring Boot, Angular, and React. I enjoy solving complex problems and continuously improving my skills in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+Backend: Java, Spring Boot, Hibernate, REST APIs, JWT Authentication, Microservices
+Frontend: Angular, React, HTML, CSS, JavaScript, Bootstrap
+Databases: MySQL, PostgreSQL
+Tools & Others: Git, Maven, IntelliJ, VSCode, WebClient, Postman
+Algorithm & Problem Solving: 800+ DSA problems solved, Highest LeetCode rating: 1770
+🚀 Projects
+E-commerce Microservices Backend: Built a scalable platform with AuthService, Payment, Ledger, and E-commerce services. Implements JWT-based authentication and role-based authorization.
+Deep Learning & ML Projects: Final year project with 95%+ accuracy.
+Online News Platform: Full-stack project with admin panel, news categories, and breaking news features.
+🌱 Currently Learning
+Advanced Microservices patterns
+Cloud deployment (Docker, Kubernetes, OpenShift)
+System design & architecture
